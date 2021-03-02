@@ -1,5 +1,6 @@
 # laser-sentry
-inspired by Michael Reeves' blinding machine. (Work in progress) 
+Inspired by Michael Reeves' blinding machine. (Work in progress) 
+Code based on https://towardsdatascience.com/automatic-vision-object-tracking-347af1cc8a3b
 # Requirements
 Raspberry Pi 3/4, 2 Servo motors, webcam (C920), breadboard, laser diode, and a can of beans.
 ```pip install opencv-python```
