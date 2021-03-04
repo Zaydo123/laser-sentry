@@ -7,8 +7,9 @@ Raspberry Pi 3/4, 2 Servo motors, webcam (C920), breadboard, laser diode, 3d pri
 ```pip install numpy```
 
 ## Current State
-Currently, this project isn't finished. Right now I only have the ability to move the X-axis, as I have only now designed the y axis 3d print. Print the stl file attached, and you should be caught up to me.
+Currently printing the whole build, it takes me about 10hrs. Going to test it out right after. 
 
 ## To Do
-Ill be uploading a GPIO pinout diagram soon. 
-Video instructions coming... eventually.
+Finish printing and design testing.
+Code y axis control
+Upload final build instructions. 
