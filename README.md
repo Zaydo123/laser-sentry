@@ -10,6 +10,8 @@ Raspberry Pi 3/4, 2 Servo motors, webcam (C920), breadboard, laser diode, 3d pri
 Currently printing the whole build, it takes me about 10hrs. Going to test it out right after. 
 
 ## To Do
-Finish printing and design testing.
-Code y axis control
+Finish printing and design testing. 
+
+Code y axis control. 
+
 Upload final build instructions. 
