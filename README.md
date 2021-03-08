@@ -10,4 +10,4 @@ Raspberry Pi 3/4, 2 MG996R servo motors, webcam (C920), breadboard, laser diode,
 Built the thing, haven't tested code yet.
 ## To Do
 Test it and upload final build instructions. 
-![alt text](https://i.imgur.com/s1DuRQK.png)
+![alt text](https://i.imgur.com/vbVT5s1.png)
