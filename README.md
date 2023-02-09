@@ -1,6 +1,6 @@
 # laser-sentry
 
-## Hello, this is a project I completed as an early teenager and would like to share the progress I was able to make while learning about computer vision. Please note while analyzing this code and Readme.md that this was written by a slightly younger me, thank you! 
+## unfinished test of opencv
 
 Inspired by Michael Reeves' blinding machine. (Work in progress) 
 Code based on https://towardsdatascience.com/automatic-vision-object-tracking-347af1cc8a3b
